@@ -1,6 +1,6 @@
 - 👋 Hola, I’m @daviderubio
-- 👀 I’m interested in python, Open Source, OpenCV, Computer Vision, data analysis, SQL, water, film, animation, photography, storytelling, running, SDG's
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in python, Open Source, OpenCV, Computer Vision, data analysis, SQL, water, languages, film, animation, photography, storytelling, running, SDG's
+- 🌱 I’m currently learning Computer Vision and Nahuatl
 - 👀 I’m looking for collaborators for the Ueiya Project (Ueiya.com)
 - 📫 How to reach me: hola @ daviderubio . com
 
