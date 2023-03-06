@@ -1,7 +1,7 @@
 - 👋 Hola, I’m @daviderubio
-- 👀 I’m interested in python, Open Source, computer vision, data analysis, OpenCV, SQL, SDG's, SDG 6 Clean water and sanitation, water footprint, smart meters, languages, film, animation, nature, science, photography, storytelling, running, meditation and philosophy.
-- 🌱 I’m currently learning Computer Vision and Nahuatl
+- 🙂 I’m interested in python, Open Source, computer vision, data analysis, OpenCV, SQL, SDG's, SDG 6 Clean water and sanitation, water footprint, smart meters, languages, film, animation, nature, science, photography, storytelling, running, meditation and philosophy.
 - 👀 I’m looking for contributors for the Ueiya Project (Ueiya.com)
+- 🌱 I’m currently learning Computer Vision and Nahuatl
 - 📫 How to reach me: hola@daviderubio.com
 
 <!---
