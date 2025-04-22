@@ -1,5 +1,5 @@
 - 👋 Hola, I’m @daviderubio
-- 🙂 I’m interested in python, Open Source, computer vision, statistics, OpenCV, SQL, languages, film, animation, nature, science, photography, neuroscience, storytelling, running, meditation and philosophy.
+- 🙂 I’m interested in python, Open Source, computer vision, statistics, OpenCV, SQL, data engineering, languages, film, animation, nature, science, photography, neuroscience, storytelling, running, meditation and philosophy.
 - 📫 How to reach me: info <@> daviderubio.com
 
 <!---
